@@ -1,0 +1,1 @@
+docker run --rm -t -v /Users/jwdaniel/Docker/postgres-data:/postgres-data -p 137:137 -p 138:138 -p 139:139 -p 445:445 jwdanielgis/samba 
